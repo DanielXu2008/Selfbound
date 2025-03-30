@@ -26,3 +26,6 @@ pip install pygame
 
 ## Replit (no sound)
 - https://replit.com/@michaelzjqu/CounterSpell
+
+## Credits
+This project was made in collaboration with [Michael Qu](https://github.com/MichaelZjQu).  
