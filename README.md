@@ -10,8 +10,20 @@ Selfbound is a dungeon crawler where you fight past versions of yourself. Every 
 ## Controls
 - WASD: Move around
 - Mouse Hover: Aim
-- Left Click: Shoot
+- Space: Shoot
 - Other Keys: Activate abilities (specific mappings may vary)
+
+
+## Demo
+
+![Screenshot 1](assets/screenshot1.png)
+
+![Screenshot 2](assets/screenshot2.png)
+
+![Screenshot 3](assets/screenshot3.png)
+
+![Screenshot 4](assets/screenshot4.png)
+
 
 ## Installation
 ### Requirements
@@ -28,4 +40,4 @@ pip install pygame
 - https://replit.com/@michaelzjqu/CounterSpell
 
 ## Credits
-This project was made in collaboration with [Michael Qu](https://github.com/MichaelZjQu).  
+This project was made in collaboration with [Michael Qu](https://github.com/MichaelZjQu) and Linda Qi.  
